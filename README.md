@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.mindbowser.com/wp-content/uploads/2021/02/08192628/Mind_Bowser_banner_1.svg)]
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
