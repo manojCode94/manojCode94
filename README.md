@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manojCode94](https://github.com/manojCode94)
 
-- 💬 Ask me about **Java, Spring Boot, Backend Developement**
+- 💬 Ask me about **Java,Spring Framework, Spring Boot, Backend Developement**
 
 - 📫 How to reach me **manojkp124@gmail.com**
 
