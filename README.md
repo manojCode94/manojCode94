@@ -1,4 +1,3 @@
-![Software engineer](https://user-images.githubusercontent.com/52065298/235899396-88279a77-068d-48f9-a306-e3aef8587518.png)
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
@@ -8,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manojCode94](https://github.com/manojCode94)
 
-- 💬 Ask me about **Java,Spring Framework, Spring Boot, Backend Developement**
+- 💬 Ask me about **Java,Spring Framework, Spring Boot, SQL/NoSQL Backend Developement**
 
 - 📫 How to reach me **manojkp124@gmail.com**
 
