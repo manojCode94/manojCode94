@@ -8,7 +8,7 @@
 <h3 align="center">Software Engineer |  Backend Developer |  Data Analysis Enthusiast | Data Structure | Algorithm</h3>
 <p align="center">
 <a href = 'https://linkedin.com/in//manojku123/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = "manojcode94.github.io/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = "https://manojcode94.github.io/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = "https://github.com/manojCode94"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://www.hackerrank.com/manojkp124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manojkp124" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/makumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="makumar" height="30" width="40" /></a>
