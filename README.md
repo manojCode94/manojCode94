@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Betterreads App** "Web App for readers to track there reading habbits"<br>
+✔ I’m currently Developing **E-commerce Backend | REST API | Payment Integration **<br>
 ✔ I’m currently learning **Data Analysis** & **Machine Learning**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I use to write coad on [leetcode](https://www.leetcode.com/makumar) <br>
