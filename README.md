@@ -37,7 +37,7 @@
 ✔ I’m currently Developing **E-commerce Backend | REST API | Payment Integration**<br>
 ✔ I’m currently learning **Data Analysis** & **Machine Learning**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I use to write coad on [leetcode](https://www.leetcode.com/makumar) <br>
+✔ I use to write code on [leetcode](https://www.leetcode.com/makumar) <br>
 ✔ Ask me about **Java**, **Spring Boot**, **NodeJS**, & **Backend Development** 😉<br>
 ✔ Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me. I'm open to feedback and suggestions!<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
