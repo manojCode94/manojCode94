@@ -5,7 +5,7 @@
 
 <!-- <hr> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manoj Kumar</h1>
-<h3 align="center">Software Engineer |  Backend Developer |  Data Analysis Enthusiast | Data Structure | Algorithm</h3>
+<h3 align="center">Software Engineer | Data Analysis Enthusiast | Data Structures | Algorithms</h3>
 <p align="center">
 <a href = 'https://linkedin.com/in//manojku123/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = "https://manojcode94.github.io/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
