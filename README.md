@@ -34,10 +34,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **E-commerce Backend | REST API | Payment Integration**<br>
+✔ I’m currently Developing **E-commerce Restful APIs with payment Integration service**<br>
 ✔ I’m currently learning **Data Analysis** & **Machine Learning**<br>
 ✔ I use to write code on [leetcode](https://www.leetcode.com/makumar) <br>
-✔ Ask me about **Java**, **Spring Boot**, **NodeJS**, & **Backend Development** 😉<br>
+✔ Ask me about **Java**, **Java, Spring Boot**, **ReactJS**, & **Backend Development** 😉<br>
 ✔ Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me. I'm open to feedback and suggestions!<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
 
