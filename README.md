@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manoj Kumar</h1>
-<h5 align="center">Software Engineer | Data Engineerung Enthusiast </h5>
+<h5 align="center">Software Engineer | Data Engineering Enthusiast </h5>
 <p align="center">
 <a href = 'https://linkedin.com/in//manojku123/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = "https://manojcode94.github.io/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
