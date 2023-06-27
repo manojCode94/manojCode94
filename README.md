@@ -1,11 +1,5 @@
-<!-- <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
-
-<!-- <hr> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manoj Kumar</h1>
-<h3 align="center">Software Engineer | Data Analysis Enthusiast | Data Structures | Algorithms</h3>
+<h5 align="center">Software Engineer | Data Engineerung Enthusiast </h5>
 <p align="center">
 <a href = 'https://linkedin.com/in//manojku123/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = "https://manojcode94.github.io/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
@@ -13,33 +7,15 @@
 <a href="https://www.hackerrank.com/manojkp124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manojkp124" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/makumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="makumar" height="30" width="40" /></a>
 </p>
-</p>
 
-
-
-<p align="center">
-  <em>
-    This is ME, Manoj Kumar, a <b>Software Development Engineer (SDE 1)</b> <a href="https://www.fisglobal.com/en"> <b>@ FIS GLOBAL</b></a>. <br>
-    A <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br><b>obsessed</b>
-    with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **E-commerce Restful APIs with payment Integration service**<br>
-✔ I’m currently learning **Data Analysis** & **Machine Learning**<br>
+✔ I’m currently learning **Data Engineering,** **Apache Kafaka and Machine Leanrning**<br>
 ✔ I use to write code on [leetcode](https://www.leetcode.com/makumar) <br>
-✔ Ask me about **Java**,Spring Framework**, **ReactJS**, & **Backend Development** 😉<br>
+✔ Ask me about **Java**,**Spring**, **React**, and **Backend Development**<br>
 ✔ Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me. I'm open to feedback and suggestions!<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***</p>
 </p>
@@ -74,22 +50,8 @@
 </P>  
 
 <p align="right">
-  <h4>Database/Cloud Exposure</h4>
+  <h4>Databases And Cloud Exposure</h4>
   <a href= "https://aws.amazon.com/"> <img src ='./images/aws-svgrepo-com.svg' width="50px"></a>
   <a href= "https://www.mongodb.com/"> <img src ='./images/mongodb-logo-svgrepo-com.svg' width="50px"></a>
   <a href= "https://www.mysql.com/"> <img src ='./images/mysql-logo-svgrepo-com.svg' width="50px"></a>
 </P>
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojCode94&show_icons=true&locale=en&layout=compact" alt="manojCode94" width="280" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojCode94&show_icons=true&locale=en" alt="manojCode94" width="410"/>
-</p>
-
-<p><img img src="https://github-readme-streak-stats.herokuapp.com/?user=manojcode94&" alt="manojcode94" width="410"/></p>
