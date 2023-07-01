@@ -20,9 +20,9 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ##### Talking about Personal Stuffs
-✔ I’m currently learning Data Engineering Concept and Machine Leanrning
-✔ I use to write code on [leetcode](https://www.leetcode.com/makumar) <br>
+✔ I’m currently learning Data Engineering and Machine Leanrning <br>
 ✔ Ask me about **Java**,**Spring Boot**, **React**, and **Backend Development**<br>
+✔ I use to write code on [leetcode](https://www.leetcode.com/makumar) <br>
 ✔ Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me. I'm open to feedback and suggestions!<br>
 
 <p align="left">
