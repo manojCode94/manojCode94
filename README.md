@@ -21,7 +21,7 @@
 **Talking about Personal Stuff:**
 
 - 🔭 I’m currently learning Data Engineering and Machine Leanrning concepts<br>
-- 💬 Ask me about **Java**,**Spring Boot**, **React**, **Backend Development**<br>
+- 💬 Ask me about **Java**, **C#**, **Spring Boot**, **React**, **Backend Development**<br>
 - 🔗 I use to write code on [Leetcode](https://www.leetcode.com/makumar) <br>
 - 📫 Please have a look at my [Résumé](https://manojcode94.github.io/manoj_kumar_resume.pdf) for more details about me.
 - :hearts: I'm open to feedback and suggestions!<br>
